@@ -1,49 +1,37 @@
-Page Purpose:
+## What We Do
 
-The outsourcing page provides a more detailed and SEO-optimized elaboration of our outsourcing services. It provides details on h
-ow prospect clients can contact us and how we work with them. 
-We further provide more qualities that specifically inform our prospective clients of our work ethic and experience and how it translates to their bottom line.
+### Build
+We build software with quality code. Our team of expert software developers launch products that look good inside out. This quality architecture translates to quality user experience and code that can scale with your business. 
 
-It also serves to add to our internal linking reputation which adds value to our reputation in search engines
+### Customize
+Our team codes unique solutions to meet changing business needs and dynamic goals. Our project managers and content specialists can also join in to complement our software powerhouse.
 
-Sections:
+### Grow
+We grow your business by maximizing efficiency and minimizing costs. Our pipeline of expert enginseers go beyond filling the talent gap -- we propel your project towards the next exciting things.
+
+## Explore Our Services
+
+## Our Process
+
+### Align Our Technologies with Your Goals
+
+Quality architecture becomes meaningful when it is pointed towards your goals. We'll ask questions and involve you identifying the technologies that matter to your project.
+
+#### Build an Agile Team
+
+Our development specialists are backed by project managers, content specialists, and marketing strategists. As your projects evolve, we bring in the people that you need.
+
+### Deploy
+
+We believe that the best way to see if stuff works is to put it to work. After thorough testing, we'll launch your project and redesign strategies based on the opinion that truly matters: the end users'.
+
+### Scale 
+
+The things we do well on a small scale become great things at a bigger scale. Our architecture and talent are geared for long-term success. 
 
 
-Catchphrase (Keyword Optimized)
-What We Do
-Roadmap -  How We Work
-Key Solutions/What We Offer
-Testimonials
-Our Clients
-PricingContact Us
+## Get Involved In Our Process
 
-Recommended Content:
-
-Home Page
-First Section
-Launch Your Ideas. Execute Your Plans. Maximize project success with your own software development team.
-View Our Services.
-
-What We Do
-Build
-Build and launch impactful products with us. With our economical custom packages, you can manage a dedicated software development team at a fraction of the cost.
-Grow
-Grow your business by maximizing efficiency and minimizing costs. Augment your software development team quickly by tapping into our pipeline of expert engineers.
-Innovate
-Unlock new business opportunities as a result of having saved on workforce costs. Through our highly-customizable development packages, you are able to allocate resources to areas that provide the most impact to your business.
-CTA: Explore Our Services
-Second Section: Hit The Ground Running - Showing a roadmap (literally) of how we work when we work with them. It illustrates the process that our prospective clients will be going through if they decide to partner with us.
-
-Identify project requirements and risks
-“Tell us about your project and what you need to accomplish it. Our technical team will help you create the best roadmap to success.”
-Assemble your team
-“Hire the best software development team by taking part in the recruitment process. Our experienced recruiting team will also ensure that you have the right talent for your software project.”
-Start With Development
-“Kickstart your development using Agile approaches. Your offshore software development team is exclusively yours as well. Meet with them, join in on their planning, and track your software’s progress. Accelerate when you need to, slow down when you have to.”
-Deploy quickly and in iterations
-“Your software development team is equipped to be Agile. Observe incremental progress to your project at your chosen pace.”
-Manage your scalability
-“You have the capability to scale up or scale down your software development team. Accelerate your growth by ramping up quickly. Our pool of expert software developers is ready to help you.”
 
 Third Section: Key Solutions: “Our managed dev teams build solutions that enable businesses to grow and scale. Partner with one of the most dedicated software development companies.”
 
