@@ -6,7 +6,6 @@ Web design is storytelling using images, layout, and functionalities. The goal o
 The main challenges of creating a modern website are fast load times, security, and usability. 
 
 
-
 ### The Solution
 
 The solution is to create design that looks good and runs on quality code.
