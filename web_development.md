@@ -16,8 +16,6 @@ We design our user interface to minimize on-boarding time, the time it takes for
 
 ### Case Study
 
-Case Study
-
 Client: searchspring
 
 `searchspring` is an e-commerce platform that connects brands directly to consumers. To enhance on-page user experience, `searchspring` equipped their site with our front-end development service.
