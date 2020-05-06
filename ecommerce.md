@@ -11,3 +11,14 @@ Ecommerce websites require the most features. The challenge is to create a websi
 ### Solution
 
 We combine creativity, clean architecture, and marketing insights to come up with an online selling platform that is robust under the hood and pleasant to use on the interface.
+
+### Case Study
+
+Client: searchspring
+
+`searchspring` is an e-commerce platform that connects brands directly to consumers. To enhance on-page user experience, `searchspring` equipped their site with our front-end development service.
+
+
+Our web development team worked to implement a web framework that load more components with less time and fewer resources. The effort led to a single-page browsing experience that felt dynamic, smooth, and seamless. 
+
+Visit `searchspring`.
