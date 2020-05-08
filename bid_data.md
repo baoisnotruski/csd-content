@@ -1,4 +1,4 @@
-We have been taking the steps to combine our experiences and expertise with big data. Being able to use massive chunks of information gives us the ability to make smarter decisions and better-informed design thinking. 
+We have been taking the steps to combine our experiences and expertise with big data. Being able to process massive chunks of information gives us the ability to make smarter decisions and better-informed design thinking. 
 
 
 ## The challenge

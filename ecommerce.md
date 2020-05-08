@@ -1,6 +1,6 @@
 ### Overview
 
-We have built web platforms to help business owners overcome the limitations of a physical store. These limitations include location, operation time, and overhead costs of a brick-and-mortar store. Selling online does come with challenges.
+We have built web platforms to help business owners overcome the limitations of a physical store. These limitations include location, operation time, and overhead costs of a brick-and-mortar store. Our fluid design bridges demands and products to make online conversion more likely. Our secure architecture has established trust -- the fundamental currency of online selling -- between businesses and customers.
 
 ### Challenge
 

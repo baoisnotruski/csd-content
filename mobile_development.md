@@ -1,6 +1,6 @@
 ### Overview
 
-People move across different devices and platforms as they go through their day. The most accessible device today, without a doubt, is the mobile phone. We build web apps that work on different screens and operating systems; with functionality and designs that shift user trends.
+People move across different devices and platforms as they go through their day. The most accessible device today, without a doubt, is the mobile phone. We build web apps that work on different screens and operating systems; with functionality and designs that keep up of shifting user trends.
 
 
 ### The Challenge

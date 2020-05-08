@@ -1,4 +1,4 @@
-Web design is storytelling using images, layout, and functionalities. The goal of the narrative is to turn a page view into conversion. Our creative team is a mixture of UX designers, editors, and content strategists who are the from conceptualizing the project to the refinement of user experience after launch. 
+Web design is storytelling using images, layout, and functionalities. The goal of the narrative is to turn a page view into conversion. Our creative team is a mixture of UX designers, editors, and content strategists who will work with you from conceptualizing the project to the refinement of user experience after launch. 
 
 ### The Challenge
 

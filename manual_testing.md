@@ -1,4 +1,4 @@
-Testing is putting the final touch to what we do. We explore the good, the bad, and the best of what we do. Our quality specialists bring their tools and know-how so that the work we do reach our benchmarks of excellence.
+Manual testing is when we put our design and code under the meticulous microscope of our experienced quality specialists. We explore the good, the bad, and the best of what we do. Our quality specialists bring their tools and know-how so that the work we do reaches our benchmarks of excellence.
 
 ### Challenge
 
