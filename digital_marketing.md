@@ -10,4 +10,4 @@ We are now closer to a fully digital world than ever before. Novelty is harder t
 
 ### Solution
 
-Keeping connected to highly-fuctuating customer behavior and digital trends is the obvious answer. What gives us the confidence is to meet the task at hand is having the tools, process, and talent. Our creative digital marketing solutions are backed by quality code. We blur the lines between code, design, and marketing to work as a whole.
+Keeping at pace with highly-fuctuating customer behavior and digital trends is the clear answer. What gives us the confidence to meet the task at hand is having the tools, process, and talent. Our creative digital marketing solutions are backed by quality code. We blur the lines between code, design, and marketing to push towards a common end.

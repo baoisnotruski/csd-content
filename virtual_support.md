@@ -4,7 +4,7 @@ Our virtual assistants enhance your workflow by handling office tasks. Our VAs s
 
 ### Challenges
 
-Answering emails and managing your schedule takes away time and energy. Moreover, these tasks take you away from your main work and break your rhythm. 
+Answering emails and managing your schedule require time and energy. Moreover, these tasks take you away from your main work and break your rhythm. 
 
 
 ### Solutions
