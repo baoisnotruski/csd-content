@@ -6,5 +6,12 @@ User experience is central to our testing. The feel of a website, although barel
 
 ### Solution
 
-Adding human touch to quality tests ensures that your web app or website are pleasing to your intended audience -- humans. Our quality analysts go beyond understanding the product. We bring our understanding of business models and target audiences to create a picture of the product we all can be proud of.
+Adding human touch to quality tests ensures that your web app or website are pleasing to your intended audience -- humans. Our quality analysts go beyond understanding the product. We bring our understanding of business models and target audiences to create products that represent the values we aspire to as a brand.
 
+### Case Study
+
+Client: `Illuminate Education`
+
+`Illuminate Education` creates a wide variety of tools to give educators a hollistic view of the learning process. As the company matures with newer insights, so do their products. 
+
+New builds and releases come close in between. 

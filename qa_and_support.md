@@ -1,1 +1,1 @@
-Our software engineers collaborate with quality analysts, content specialists, and project managers to build projects worthy of our brand. This culture of support and collaboration is what makes success happen. 
+Our software engineers collaborate with quality analysts, content specialists, and project managers to build projects worthy of our brand. This culture of support and collaboration is what makes success happen.  
