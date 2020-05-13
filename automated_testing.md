@@ -18,3 +18,4 @@ Client: `Illuminate Education`
 
 To meet the speed of development, our quality specialists work closely with developers in each step of product development. This gives them a nuanced insight into new products and releases. As a result, they are able to design automated tests that make product development faster.
 
+Automated efficiency, combined with human finesse, empowers us to create digital tools that make impact in modern education.

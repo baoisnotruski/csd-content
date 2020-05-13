@@ -14,4 +14,4 @@ Client: `Illuminate Education`
 
 `Illuminate Education` creates a wide variety of tools to give educators a hollistic view of the learning process. As the company matures with newer insights, so do their products. 
 
-New builds and releases come close in between. 
+Our quality specialists collaborate closely with developers in every new build and release. This deep collaboration results in products that give users what they expect and takes them to the next innovation in educational technology.
