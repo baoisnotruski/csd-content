@@ -16,27 +16,26 @@ Deploy
 We believe that the best way to see if stuff works is to put it to work. After thorough testing, we'll launch your project and adjust strategies based on user feedback and data.
 
 Scale
-The things we do well on a small scale become great things at a bigger scale. Our architecture and talent are geared for long-term success.
+The things we do well on a small scale become great things at a bigger scale. The way we structure our code and the way we build our team are geared for long-term success.
 Section 4 - Our Services
 Custom Software Development
 Build high-impact software. Hire experienced software developers that fit your needs.
 New Page:
 Intro:
-Our company is built on code. We take pride in building applications with sound software architecture. Intelligent by design, our approach to software development is geared to anticipate shifts in development trends and customer behavior.
+Our company is built on code. We take pride in building applications with growth in mind. Intelligent by design, our approach to software development is geared to anticipate shifts in development trends and customer behavior.
 The Challenge
-Drastic and more rapid changes in technologies push customer behavior to shift rapidly. This causes many software products to quickly fall behind. Time and budget pressures also, which are classical business challenges, add more pressure to modern brands.
+Drastic and more rapid changes in technologies push customer behavior to shift rapidly. This causes many software products to quickly fall behind. 
 The Solution
-Pricing has been a key driving factor that started our engagement with clients. But what made them stay with us over the years is the consistent quality of software. Whether building from scratch or expanding existing software, our development specialists have consistent crafted software that keeps up with new trends.
-
- Custom Web Development
-Your own website or app that expresses your goals and your brand can help your business reach its maximum potential.
+We built long-term business relations with our clients. There is no secret: just quality code. Whether building from scratch or expanding existing software, our developers have consistently crafted software that keeps up with new trends.
+Custom Web Development
+Creative, interactive, and responsive: the three qualities that define a modern website. Make your website a platform to reach your goals. Build with us.
 New Window:
 Overview
 People move across different devices and platforms as they go through their day. The most accessible device today, without a doubt, is the mobile phone. We build web apps that work on different screens and operating systems; with functionality and designs that shift with user trends.
 The Challenge
-The future of mobile apps: simple interface, multiple functionalities, and low learning curves. The challenge is to bring all these seemingly conflicting elements together. How does one design a mobile app that provides users with all the features they need while keeping the layout intuitive?
+The future of mobile apps: simple, feature-rich, and easy to use.. The challenge is to bring all these seemingly conflicting elements together. How does one design a mobile app that provides users with all the features they need while keeping the layout intuitive?
 The Solution
-We combine front-end and back-end technologies to design the user experience (UX). UX is something that can be defined in every quality line of code and each choice of pixel combination. We bring together disciplined coding, clean architecture, innovative technology, and customer feedback. We create and redesign products to meet new market concepts and customer needs.
+We build mobile apps by combing the qualities that make us successful and the latest coding trends. We actively engage feedback from quality analysts, clients, and end-users throughout the development process. We build and redesign products to meet new market concepts and emerging customer needs.
 
 Web Design
 UI Design, UX Design, Prototyping, Wireframe Design, Graphics Design
