@@ -3,10 +3,10 @@ Launch Your Ideas. Execute Your Plans. Maximize Project Success.
 
 ## Section 2 - What We Do
 ### Build
-We build software with quality code and processes. Our team of expert software developers launch products that look good inside out. This quality architecture translates to perfect user experience and products that can scale with your business.
+We build software with quality code and processes. Our team of expert software developers launch products that look good inside out. Our design philosophy translates to perfect user experience and products that can scale with your business.
 
 ### Customize
-Our team creates unique solutions to meet changing business needs and dynamic goals. Our project managers, internet marketers, and CTOs can also join in to complement our software powerhouse.
+Our team creates unique solutions to meet changing business needs and dynamic goals. Our project managers, digital marketers, and CTOs can also join in to complement our software powerhouse.
 
 ### Grow
 We grow your business by maximizing efficiency and minimizing software costs. Our pipeline of expert engineers go beyond filling the talent gap -- we propel your project forward.
@@ -16,7 +16,7 @@ We grow your business by maximizing efficiency and minimizing software costs. Ou
 Quality software becomes meaningful when it is pointed towards your goals. We'll ask the right questions and help leverage the technologies that give your project a cutting edge.
 
 ### Build an Agile Team
-Our development process is built on agile philosophy. There is no single, linear development. We constantly rebuild throughout the building process -- applying the new insights we gain in each step of development. The result is a well-thought-of and well-designed product. Assemble an agile team with us. 
+Our development process is built on agile philosophy. There is no single, linear development. We constantly rebuild throughout the building process -- applying the new insights we gain in each step of development. The result is a well-thought-of and well-designed product.  
 
 ### Deploy
 After thorough testing, we'll launch your project and adjust strategies based on user feedback and data. The product is fine-tuned to the opinion that matters most: the end-users'. 
@@ -37,7 +37,7 @@ Our company is built on code. We take pride in building applications with growth
 Drastic and more rapid changes in technologies push customer behavior to shift rapidly. This causes many software products to quickly fall behind. 
 
 ### The Solution
-We built long-term business relations with our clients. There is no secret: just quality code. Whether building from scratch or expanding existing software, our developers have consistently crafted software that keeps up with new trends.
+We built long-term business partnerships. There is no secret: just quality code that keeps up with industry trends. Whether building from scratch or expanding existing software, our developers have consistently crafted software that are up-to-date with new trends.
 
 ### Custom Web Development
 Creative, interactive, and responsive: the three qualities that define a modern website. Make your website a platform to reach your goals. Build with us.
