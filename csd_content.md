@@ -16,10 +16,10 @@ We grow your business by maximizing efficiency and minimizing software costs. Ou
 Quality software becomes meaningful when it is pointed towards your goals. We'll ask the right questions and help leverage the technologies that give your project a cutting edge.
 
 ### Build an Agile Team
-Our development specialists are backed by project managers, content specialists, and marketing strategists. As your projects evolve, we bring in the people that you need.
+Our development process is built on agile philosophy. There is no single, linear development. We constantly rebuild throughout the building process -- applying the new insights we gain in each step of development. The result is a well-thought-of and well-designed product. Assemble an agile team with us. 
 
 ### Deploy
-We believe that the best way to see if stuff works is to put it to work. After thorough testing, we'll launch your project and adjust strategies based on user feedback and data.
+After thorough testing, we'll launch your project and adjust strategies based on user feedback and data. The product is fine-tuned to the opinion that matters most: the end-users'. 
 
 ### Scale
 The things we do well on a small scale become great things at a bigger scale. The way we structure our code and the way we build our team are geared for long-term success.
