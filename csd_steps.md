@@ -20,7 +20,9 @@ Every week, we review the progress. We rethink our approach and make changes whe
 Every feature matters -- we make sure they all work. We do automated testing where applicable; and manual testing where needed. 
 
 ### Deliver
-Delivery is a continuous process. We bring valuable feature and software early to end users in order to create massive rooms for improvement. Delivery is not a static stage -- but a fluid state constantly reshaped by user feedback. 
+The best time to launch a product is "as soon as possible." Early product release gives more time to test design against user feedback. 
+
+Delivery is not a static stage -- but a fluid state constantly reshaped by how users respond to the way we build.
 
 ### Post-launch
 We analye user experience. We make sure the checkboxes in our goals lists are ticked.
